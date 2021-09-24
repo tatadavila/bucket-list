@@ -1,0 +1,17 @@
+[
+  {
+    "item": "Do The Laundry",
+    "completed": false,
+    "date": "12/24/2019"
+  },
+  {
+    "item": "Buy Bread",
+    "completed": true,
+    "date": "12/24/2019"
+  },
+  {
+    "item": "Wash The Car",
+    "completed": false,
+    "date": "09/25/2021"
+  }
+]

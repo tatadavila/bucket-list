@@ -1,0 +1,15 @@
+{
+  "name": "bucket-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tatiana Davila <tatdev91@gmail.com> (http://tatianadavila.info/)",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.0"
+  }
+}
